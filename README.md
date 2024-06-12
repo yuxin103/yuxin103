@@ -5,17 +5,17 @@
 <th>系級</th>
 <th><img src="working.jpeg"></th>
 <th><a href="">學習履歷</a></th>
-<th><a href="https://chat.openai.com/">好友</a></th>
+<th><a href="https://chat.openai.com/">姓名</a></th>
 </tr>
 <tr>
-<td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">休閒</a></td>
-<td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">實習</a></td>
-<td><a href="">網路程式設計</a></td>
+<td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
+<td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">課程</a></td>
+<td><a href="https://github.com/yuxin103/Wab-progamming">網路程式設計</a></td>
 <td>陳予欣</td>
 </tr>
 <tr>
 <td><a href="https://mice.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
-<td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">海外移地教學</a></td>
+<td><a href="https://mice.chu.edu.tw/p/412-1041-112.php?Lang=zh-tw">課程</a></td>
 <td><a href="https://github.com/yuxin103/Image-Processing">影像處理</a></td>
 <td>陳予欣</td>
 </tr>
