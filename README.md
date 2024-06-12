@@ -10,7 +10,7 @@
 <tr>
 <td><a href="https://lm.chu.edu.tw/index.php?Lang=zh-tw">會展系</a></td>
 <td><a href="https://lm.chu.edu.tw/p/412-1040-117.php?Lang=zh-tw">課程</a></td>
-<td><a href="https://github.com/yuxin103/Wab-progamming">網路程式設計</a></td>
+<td><a href="https://github.com/yuxin103/NetworkProgramming">網路程式設計</a></td>
 <td>陳予欣</td>
 </tr>
 <tr>
